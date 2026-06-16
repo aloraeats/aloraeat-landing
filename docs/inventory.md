@@ -13,7 +13,7 @@ You must manually turn on each item per branch.
 ## Turn an item on or off
 
 1. Go to **Branches** and open a branch
-2. Click the **Inventory** tab
+2. Click the **Menu** tab
 3. Find the product
 4. Toggle the switch to turn it on or off
 
